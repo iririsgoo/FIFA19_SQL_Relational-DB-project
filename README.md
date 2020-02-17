@@ -54,14 +54,14 @@ Project timeline:
 - Homepage
 ![](images/FIFA_homepage.jpg)
 
-- Player Analysis
+- Player Profile
 ![](images/FIFA_Player%20Profile.png)
 
+- Player Comparison
 ![](images/FIFA_Player%20Analysis.png)
 
-- Position Analysis
+- Player Ranking by position
 ![](images/FIFA_Position%20Analysis.png)
-
 
 - DIY SQL Pitch
 ![](images/FIFA_The%20SQL%20Pitch.png)
