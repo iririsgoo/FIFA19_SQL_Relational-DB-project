@@ -25,6 +25,44 @@ Project timeline:
 - Complete the presentation slides and report
 
 
+## Design 
+### Database schema in 3NF
+
+![](Schema/ER_Diagram.png)
+
+
+
+## ETL Process
+### Extract: Data Source
+- FIFA 2018 Complete Player Dataset: [Kaggle](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset)
+- Club coach: [ClubWorldRanking](https://www.clubworldranking.com/ranking-coaches?wd=16&yr=2019&index=0) ([scraying code](coaches.py))
+- League and Club: [Skysports](https://www.skysports.com/football/teams)([scrapying code](leagues.py))
+- Standing: [Skysports](https://www.skysports.com/football/tables)([scrapying code](standings.py))
+
+### Transform (see the code)
+- Data cleaning
+- Recalculate
+- Impute/Delete missing data
+
+### Load
+- Load the data into database using Rmd
+
+
+
+## Dashboard: Rshiny (global.R | server.R | ui.R)
+- Homepage
+![](images/FIFA_homepage.jpg)
+
+- Player Analysis
+![](images/FIFA_Player%20Profile.png)
+![](images/FIFA_Player%20Analysis.png)
+
+-Position Analysis
+![](images/FIFA_Position%20Analysis.png)
+
+
+- DIY SQL Pitch
+![](Schema/ER_Diagram.png)
 
 
 
