@@ -53,7 +53,7 @@ Project timeline:
 - Homepage![](images/FIFA_homepage.png)
 
 - Player Profile
-> Profile | Position | Skills![](images/FIFA_Player%20Profile.png)
+> Profile | Skills | Position ![](images/FIFA_Player%20Profile.png)
 
 - Player Comparison
 
