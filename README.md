@@ -50,19 +50,21 @@ Project timeline:
 
 
 ## Dashboard: Rshiny (global.R | server.R | ui.R)
+
 - Homepage
 ![](images/FIFA_homepage.jpg)
 
 - Player Analysis
 ![](images/FIFA_Player%20Profile.png)
+
 ![](images/FIFA_Player%20Analysis.png)
 
--Position Analysis
+- Position Analysis
 ![](images/FIFA_Position%20Analysis.png)
 
 
 - DIY SQL Pitch
-![](Schema/ER_Diagram.png)
+![](images/FIFA_The%20SQL%20Pitch.png)
 
 
 
