@@ -1,0 +1,80 @@
+league,club,rank
+Premier League 2018/19,Team,# Team Pl GD Pts
+Premier League 2018/19,Liverpool,1 Liverpool 35 59 88
+Premier League 2018/19,Man City,2 Man City 34 65 86
+Premier League 2018/19,Tottenham,3 Tottenham 34 29 67
+Premier League 2018/19,Arsenal,4 Arsenal 34 25 66
+Premier League 2018/19,Chelsea,5 Chelsea 34 21 66
+Sky Bet Championship 2018/19,Team,# Team Pl GD Pts
+Sky Bet Championship 2018/19,Norwich,1 Norwich 43 34 87
+Sky Bet Championship 2018/19,Sheff Utd,2 Sheff Utd 43 32 82
+Sky Bet Championship 2018/19,Leeds,3 Leeds 43 26 82
+Sky Bet Championship 2018/19,W Brom,4 W Brom 43 26 76
+Sky Bet Championship 2018/19,A Villa,5 A Villa 43 21 72
+UEFA Champions League - Group A 2018/19,Team,# Team Pl GD Pts
+UEFA Champions League - Group A 2018/19,B Dortmund,1 B Dortmund 6 8 13
+UEFA Champions League - Group A 2018/19,A Madrid,2 A Madrid 6 3 13
+UEFA Champions League - Group A 2018/19,Club Brugge,3 Club Brugge 6 1 6
+UEFA Champions League - Group A 2018/19,Monaco,4 Monaco 6 -12 1
+Europa League - Group A 2018/19,Team,# Team Pl GD Pts
+Europa League - Group A 2018/19,Leverkusen,1 Leverkusen 6 7 13
+Europa League - Group A 2018/19,FC Zurich,2 FC Zurich 6 1 10
+Europa League - Group A 2018/19,AEK Larnaca,3 AEK Larnaca 6 -6 5
+Europa League - Group A 2018/19,Ludogorets,4 Ludogorets 6 -2 4
+Sky Bet League One 2018/19,Team,# Team Pl GD Pts
+Sky Bet League One 2018/19,Luton,1 Luton 43 47 90
+Sky Bet League One 2018/19,Barnsley,2 Barnsley 43 38 85
+Sky Bet League One 2018/19,S'land,3 S'land 42 35 83
+Sky Bet League One 2018/19,Portsmth,4 Portsmth 42 32 83
+Sky Bet League One 2018/19,Charlton,5 Charlton 43 23 79
+Sky Bet League Two 2018/19,Team,# Team Pl GD Pts
+Sky Bet League Two 2018/19,Lincoln,1 Lincoln 43 34 84
+Sky Bet League Two 2018/19,Mansfield,2 Mansfield 43 31 76
+Sky Bet League Two 2018/19,MK Dons,3 MK Dons 43 23 75
+Sky Bet League Two 2018/19,Bury,4 Bury 43 24 74
+Sky Bet League Two 2018/19,Tranmere,5 Tranmere 43 15 71
+UEFA Nations League - Group A4 2018/19,Team,# Team Pl GD Pts
+UEFA Nations League - Group A4 2018/19,England,1 England 4 1 7
+UEFA Nations League - Group A4 2018/19,Spain,2 Spain 4 5 6
+UEFA Nations League - Group A4 2018/19,Croatia,3 Croatia 4 -6 4
+Checkatrade Trophy - Northern Group A 2018/19,Team,# Team Pl GD Pts
+Checkatrade Trophy - Northern Group A 2018/19,S'land,1 S'land 3 3 8
+Checkatrade Trophy - Northern Group A 2018/19,Stoke City U21,2 Stoke City U21 3 1 6
+Checkatrade Trophy - Northern Group A 2018/19,Carlisle,3 Carlisle 3 -1 4
+Checkatrade Trophy - Northern Group A 2018/19,Morecambe,4 Morecambe 3 -3 0
+Scottish Premiership 2018/19,Team,# Team Pl GD Pts
+Scottish Premiership 2018/19,Celtic,1 Celtic 34 54 78
+Scottish Premiership 2018/19,Rangers,2 Rangers 34 51 69
+Scottish Premiership 2018/19,Aberdeen,3 Aberdeen 34 16 61
+Scottish Premiership 2018/19,Kilmarnock,4 Kilmarnock 34 17 58
+Scottish Premiership 2018/19,Hibernian,5 Hibernian 34 15 53
+Spanish La Liga 2018/19,Team,# Team Pl GD Pts
+Spanish La Liga 2018/19,Barcelona,1 Barcelona 33 51 77
+Spanish La Liga 2018/19,A Madrid,2 A Madrid 33 27 68
+Spanish La Liga 2018/19,R Madrid,3 R Madrid 33 21 64
+Spanish La Liga 2018/19,Getafe,4 Getafe 33 14 54
+Spanish La Liga 2018/19,Valencia,5 Valencia 33 10 52
+Italian Serie A 2018/19,Team,# Team Pl GD Pts
+Italian Serie A 2018/19,Juventus,1 Juventus 33 44 87
+Italian Serie A 2018/19,Napoli,2 Napoli 32 33 67
+Italian Serie A 2018/19,Inter,3 Inter 33 24 61
+Italian Serie A 2018/19,AC Milan,4 AC Milan 33 16 56
+Italian Serie A 2018/19,Roma,5 Roma 33 12 55
+French Ligue 1 2018/19,Team,# Team Pl GD Pts
+French Ligue 1 2018/19,PSG,1 PSG 33 68 84
+French Ligue 1 2018/19,Lille,2 Lille 33 26 65
+French Ligue 1 2018/19,Lyon,3 Lyon 33 14 59
+French Ligue 1 2018/19,St Etienne,4 St Etienne 33 13 56
+French Ligue 1 2018/19,Marseille,5 Marseille 33 8 54
+Dutch Eredivisie 2018/19,Team,# Team Pl GD Pts
+Dutch Eredivisie 2018/19,Ajax,1 Ajax 31 79 77
+Dutch Eredivisie 2018/19,PSV,2 PSV 31 68 77
+Dutch Eredivisie 2018/19,Feyenoord,3 Feyenoord 31 29 59
+Dutch Eredivisie 2018/19,AZ Alkmaar,4 AZ Alkmaar 31 21 52
+Dutch Eredivisie 2018/19,H Almelo,5 H Almelo 31 -3 48
+German Bundesliga 2018/19,Team,# Team Pl GD Pts
+German Bundesliga 2018/19,Bay Munich,1 Bay Munich 30 50 70
+German Bundesliga 2018/19,B Dortmund,2 B Dortmund 30 36 69
+German Bundesliga 2018/19,RB Leipzig,3 RB Leipzig 30 34 61
+German Bundesliga 2018/19,Frankfurt,4 Frankfurt 29 23 52
+German Bundesliga 2018/19,M'gladbach,5 M'gladbach 30 12 51

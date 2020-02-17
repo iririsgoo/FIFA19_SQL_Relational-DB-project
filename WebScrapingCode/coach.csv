@@ -1,0 +1,1054 @@
+rank,prev,coach,club,point,won,lost
+,,,,,,
+1,2,Ernesto Valverde,Barcelona,14464,827,294
+2,1,M. Gallardo,River Plate,14444,178,374
+3,4,D. Simeone,Atlético Madrid,11376,297,98
+4,6,Mano Menezes,Cruzeiro,11369,594,0
+5,7,Renato Gaúcho,Grêmio,10979,594,267
+6,5,Guardiola,Manchester City,10963,223,213
+7,3,M. Allegri,Juventus,10925,198,735
+8,8,J. Klopp,Liverpool,10293,884,921
+9,9,Marcelino,Valencia,10050,891,294
+10,10,E. Coudet,Racing Club,9329,0,0
+,,,,,,
+11,14,M. Sarri,Chelsea,9305,669,205
+12,12,N. Kovač,Bayern München,9238,226,83
+13,11,Pablo Machín,(Sevilla),9196,0,0
+14,22,M. Pochettino,Tottenham Hotspur,8927,951,0
+15,18,Tiago Nunes,Atlético PR,8648,475,0
+16,15,Sérgio Conceição,Porto,8548,146,154
+17,30,D. Alonso,Monterrey,8475,850,0
+18,25,Unai Emery,Arsenal,8467,570,0
+19,20,Ricardo Ferretti,Tigres UANL,8432,268,0
+20,13,G. Alfaro,Boca Juniors,8432,238,748
+21,26,Luiz Felipe Scolari,Palmeiras,8336,475,0
+22,16,A. Hütter,Eintracht Frankfurt,8264,0,95
+23,19,Guillermo Barros Schelotto,LA Galaxy,8134,148,180
+24,23,L. Spalletti,Internazionale,8123,220,68
+25,21,S. Beccacece,Defensa y Justicia,8091,0,0
+,,,,,,
+26,27,C. Ancelotti,Napoli,8077,220,0
+27,24,S. Solari,(Real Madrid),7935,0,0
+28,28,T. Tuchel,PSG,7809,0,0
+29,31,José Bordalás,Getafe,7658,99,0
+30,34,E. ten Hag,Ajax,7654,331,95
+31,17,E. Di Francesco,(Roma),7610,0,735
+32,29,Quique Setién,Real Betis,7438,0,294
+33,35,Rui Vitória,Al Nassr,7207,107,0
+34,32,A. Holan,Independiente,7179,0,374
+35,36,Kim Do-Hoon,Ulsan,7114,599,549
+,,,,,,
+36,33,R. Zielinski,Atlético Tucumán,6981,0,499
+37,37,Maurício Barbieri,Goiás,6922,0,89
+38,38,M. Herrera,América,6792,89,240
+39,41,Odair Hellmann,Internacional,6784,149,0
+40,39,G. Heinze,Vélez Sarsfield,6761,0,0
+41,42,Javi Calleja,Villarreal,6720,297,98
+42,47,G. Oiwa,Kashima Antlers,6619,417,71
+43,43,L. Favre,Borussia Dortmund,6608,226,106
+44,49,R. Rangnick,RB Leipzig,6404,226,0
+45,40,M. Rose,Salzburg,6265,89,555
+46,46,S. Inzaghi,Lazio,6205,0,205
+47,50,J. Comesaña,(Colón),6170,0,0
+48,45,B. Génésio,Olympique Lyonnais,6124,0,318
+49,55,G. Gattuso,Milan,5999,220,68
+50,58,O. Solskjær,Manchester United,5960,223,0
+,,,,,,
+51,52,P. Clement,Genk,5950,127,40
+52,53,Pedro Caixinha,Cruz Azul,5939,89,0
+53,51,G. Gasperini,Atalanta,5862,0,68
+54,48,J. Vojvoda,Talleres Córdoba,5828,0,374
+55,54,A. Khatskevich,Dynamo Kyiv,5813,141,175
+56,56,Enderson Moreira,Bahia,5793,0,0
+57,64,S. Semak,Zenit,5768,192,0
+58,44,D. Dabove,Argentinos Juniors,5712,0,748
+59,60,L. Madelón,Unión Santa Fe,5689,0,0
+60,57,J. Trpišovský,Slavia Praha,5675,33,118
+,,,,,,
+61,61,S. Reyes,(Santos Laguna),5659,0,0
+62,63,Abelardo,Deportivo Alavés,5631,0,0
+63,67,André Gaspar,Daegu,5604,70,0
+64,62,L. Zubeldía,Lanús,5511,0,131
+65,59,Choi Kang-Hee,Dalian Yifang,5454,270,549
+66,65,M. Musaev,Krasnodar,5454,64,179
+67,66,D. Aguirre,(São Paulo),5445,0,100
+68,70,F. Cannavaro,Guangzhou Evergrande,5340,379,211
+69,81,R. Schmidt,Beijing Guoan,5335,611,0
+70,69,J. Almirón,San Lorenzo,5282,178,139
+71,68,Paco López,Levante,5180,0,294
+72,73,Mendilibar,Eibar,5038,99,0
+73,78,Li Xiaopeng,Shandong Luneng,5029,315,158
+74,79,Paulo Fonseca,Shakhtar Donetsk,4965,141,0
+75,75,Zé Ricardo,Botafogo,4924,0,0
+,,,,,,
+76,77,D. Tedesco,(Schalke 04),4906,0,0
+77,80,Vítor Pereira,Shanghai SIPG,4895,396,316
+78,74,J. Nagelsmann,Hoffenheim,4824,226,332
+79,86,Rubí,Espanyol,4802,297,0
+80,76,V. Goncharenko,CSKA Moskva,4729,0,189
+81,71,A. Gamero,Deportes Tolima,4726,49,417
+82,88,Pedro Emanuel,Al Taawon,4697,243,0
+83,84,José Mourinho,(Manchester United),4652,0,0
+84,83,R. Lucescu,PAOK,4611,34,85
+85,111,D. Garnero,Olimpia,4604,694,98
+,,,,,,
+86,82,B. Rodgers,Leicester City,4589,0,74
+87,95,F. Kohfeldt,Werder Bremen,4525,226,0
+88,85,Y. Semin,Lokomotiv Moskva,4442,192,358
+89,98,D. Hecking,Borussia M'gladbach,4421,226,0
+90,90,M. Pellegrino,Leganés,4406,0,0
+91,91,Javi Gracia,Watford,4401,0,0
+92,87,B. Labbadia,Wolfsburg,4383,0,83
+93,93,E. Domínguez,(Nacional),4371,0,0
+94,97,P. Vrba,Viktoria Plzeň,4350,98,0
+95,94,E. Bauza,(Rosario Central),4304,0,0
+96,72,Jorge Jesus,(Al Hilal),4271,0,742
+97,96,Fábio Carille,Corinthians,4262,0,0
+98,99,F. Terim,Galatasaray,4215,39,0
+99,103,Pedro Martins,Olympiakos Piraeus,4214,102,0
+100,89,W. Mazzarri,Torino,4208,73,273
+,,,,,,
+101,135,Fernando Jubero,Cerro Porteño,4199,635,0
+102,106,Jong-Boo Kim,Gyeongnam,4171,70,0
+103,101,Jair Ventura,(Corinthians),4146,0,0
+104,102,G. Álvarez,Aldosivi,4138,0,0
+105,105,S. Pioli,(Fiorentina),4103,0,0
+106,108,J. Stéphan,Rennes,4098,56,0
+107,120,M. Şumudică,Al Shabab,4092,243,0
+108,100,J. Thorup,Gent,4076,0,85
+109,114,C. Galtier,Lille,4023,169,53
+110,150,M. Lasarte,Al Ahly,4020,702,0
+,,,,,,
+111,109,I. Ambriz,León,3988,268,295
+112,119,I. Leko,Club Brugge,3977,127,0
+113,116,S. Solbakken,København,3966,87,0
+114,113,M. Preud'homme,Standard Liège,3961,0,0
+115,127,M. Giampaolo,Sampdoria,3928,220,0
+116,92,R. Garcia,Olympique Marseille,3925,169,630
+117,134,Gaizka Garitano,Athletic Club,3911,297,0
+118,130,Z. Mamić,Al Hilal,3906,243,0
+119,104,R. Hodgson,Crystal Palace,3890,0,213
+120,157,Bruno Lage,Benfica,3890,710,0
+121,117,Abel Ferreira,Sporting Braga,3862,146,154
+122,129,G. Seoane,Young Boys,3838,170,0
+123,107,R. Cristante,(Toluca),3831,0,221
+124,110,Roger Machado,(Palmeiras),3812,0,200
+125,122,P. Vermes,Sporting KC,3809,49,76
+,,,,,,
+126,124,Nuno Espírito Santo,Wolverhampton Wanderers,3787,0,0
+127,132,S. Güneş,Beşiktaş,3766,232,123
+128,125,P. Mosimane,Mamelodi Sundowns,3760,0,0
+129,126,Marcelo Oliveira,(Fluminense),3742,0,0
+130,123,Z. Zidane,Real Madrid,3736,0,98
+131,118,S. Avgousti,Apollon,3717,82,225
+132,128,L. Benítez,(Estudiantes),3670,0,0
+133,131,Eusebio Sacristán,Girona,3663,0,0
+134,133,D. Patiño,(Pumas UNAM),3639,0,0
+135,144,V. Karpin,Rostov,3599,192,0
+,,,,,,
+136,137,P. Troglio,(Gimnasia La Plata),3555,0,0
+137,112,Seo Jung-Won,(Suwon Bluewings),3538,0,427
+138,138,Lisca,Ceará,3532,0,0
+139,172,B. Ivanković,Persepolis,3511,481,0
+140,140,Cuca,(Santos),3493,0,0
+141,142,S. Gerrard,Rangers,3429,0,0
+142,143,N. Bjelica,Dinamo Zagreb,3414,0,0
+143,145,M. Pellegrini,West Ham United,3393,0,0
+144,115,H. Herrlich,(Bayer Leverkusen),3391,0,498
+145,139,L. Suárez,Junior,3386,49,185
+146,146,Choi Soon-Ho,Pohang Steelers,3386,0,0
+147,148,C. Hughton,Brighton & Hove Albion,3361,0,0
+148,121,Imanol Alguacil,Real Sociedad,3358,99,588
+149,155,M. Keizer,Sporting CP,3345,146,0
+150,168,L. Semplici,SPAL,3313,220,0
+,,,,,,
+151,141,S. Dyche,Burnley,3291,74,213
+152,152,J. Gasset,Saint-Étienne,3290,169,159
+153,161,M. van Bommel,PSV,3256,93,0
+154,158,R. De Zerbi,Sassuolo,3253,73,0
+155,149,Ó. Pareja,Tijuana,3253,0,101
+156,153,S. Schwarz,Mainz 05,3231,0,0
+157,166,Sergio,Real Valladolid,3217,99,0
+158,167,U. Rösler,Malmö FF,3211,94,0
+159,163,T. Laurey,Strasbourg,3193,56,0
+160,156,Alberto Valentim,Vasco da Gama,3185,0,0
+,,,,,,
+161,177,E. Howe,AFC Bournemouth,3182,223,0
+162,159,F. Palencia,Lobos BUAP,3178,0,0
+163,160,A. Avci,İstanbul Başakşehir,3163,0,0
+164,162,M. Russo,Alianza Lima,3156,0,0
+165,165,D. Parfenov,Ural,3135,64,60
+166,136,Cho Sung-Hwan,Jeju United,3133,0,427
+167,164,M. Sciacqua,Patronato,3132,0,0
+168,174,H. Bodhert,Once Caldas,3116,146,46
+169,169,J. Cardozo,(Guadalajara),3088,0,0
+170,179,W. Cabrera,Houston Dynamo,3081,148,0
+171,171,J. Falcioni,(Banfield),3077,0,0
+172,151,A. Mohamed,Huracán,3074,0,221
+173,187,C. Olăroiu,Jiangsu Suning,3047,270,53
+174,147,W. Coyette,(San Martín Tucumán),3009,0,374
+175,186,V. Sharan,Oleksandria,2997,141,0
+,,,,,,
+176,200,M. Sredojević,Orlando Pirates,2980,290,0
+177,175,Claudinei Oliveira,Chapecoense,2973,0,0
+178,182,D. Kühbauer,Rapid Wien,2967,89,0
+179,154,P. Dárdai,Hertha BSC,2966,0,249
+180,217,H. Jofuku,Sanfrecce Hiroshima,2965,605,142
+181,176,P. Vieira,Nice,2948,56,76
+182,184,P. Rada,Jablonec,2933,98,39
+183,201,Péricles Chamusca,Al Faisaly,2916,243,0
+184,170,Kim Tae-Wan,Sangju Sangmu,2906,70,244
+185,180,C. Streich,Freiburg,2905,0,0
+,,,,,,
+186,181,Marco Silva,Everton,2894,0,0
+187,173,O. De Felippe,(Newell's Old Boys),2893,0,125
+188,228,M. Chaabani,ES Tunis,2892,500,0
+189,183,É. Bedouet,Bordeaux,2877,0,0
+190,185,Osmar Loss,(Corinthians),2860,0,0
+191,197,F. Al Jabal,Al Fateh,2835,81,0
+192,206,Rafael Benítez,Newcastle United,2827,223,0
+193,189,O. Zambrano,(Independiente Medell..,2787,0,0
+194,191,G. Sanguinetti,(Santa Fe),2786,0,0
+195,190,F. Funkel,Fortuna Düsseldorf,2786,0,0
+196,193,R. Maran,Cagliari,2778,73,68
+197,196,R. Forestello,San Martín San Juan,2755,0,0
+198,205,M. Der Zakarian,Montpellier,2739,169,53
+199,178,R. Hernández,(Morelia),2721,0,221
+200,198,S. Bilić,(Al Ittihad),2719,0,0
+,,,,,,
+201,210,T. Oniki,Kawasaki Frontale,2707,188,48
+202,192,Levir Culpi,Atlético Mineiro,2706,0,71
+203,202,P. Guede,(Al Ahli),2673,0,0
+204,195,Luís Castro,Vitória Guimarães,2654,0,102
+205,188,Luis García,(Villarreal),2643,0,158
+206,194,Y. Vanderhaeghe,Kortrijk,2642,0,119
+207,224,D. López,Peñarol,2613,356,205
+208,213,G. Bakke,Sarpsborg 08,2612,94,31
+209,199,Ivo Vieira,Moreirense,2590,49,154
+210,232,R. Hasenhüttl,Southampton,2587,223,0
+,,,,,,
+211,208,C. Gross,Zamalek,2584,0,0
+212,209,G. van Bronckhorst,Feyenoord,2579,93,95
+213,219,R. D'Aversa,Parma,2564,73,0
+214,212,O. Kononov,Spartak Moskva,2557,0,0
+215,203,M. Baum,(Augsburg),2552,0,83
+216,234,Oswaldo de Oliveira,Urawa Reds,2546,188,0
+217,214,E. Bulut,Yeni Malatyaspor,2545,39,41
+218,218,R. Látal,Spartak Trnava,2523,29,0
+219,274,W. Schäfer,Esteghlal,2511,481,21
+220,215,B. Hasi,Al Raed,2511,0,0
+221,216,C. Puel,(Leicester City),2510,0,0
+222,231,L. Bölöni,Antwerp,2493,127,0
+223,220,L. Magnin,Zürich,2487,0,0
+224,221,J. Andersen,Incheon United,2483,0,0
+225,233,Ü. Karaman,Trabzonspor,2476,116,0
+,,,,,,
+226,223,D. Guion,Reims,2472,0,0
+227,207,O. Glasner,LASK Linz,2466,30,156
+228,225,G. Vázquez,Necaxa,2464,268,221
+229,204,K. Berdyev,Rubin Kazan',2444,0,179
+230,252,D. Isăilă,Al Hazm,2430,243,0
+231,246,V. Fedotov,Orenburg,2426,192,0
+232,226,Lopetegui,(Real Madrid),2399,0,0
+233,227,E. Meza,(Puebla),2396,0,0
+234,240,R. Norling,AIK,2394,125,31
+235,241,B. Bradley,Los Angeles FC,2377,148,54
+,,,,,,
+236,230,Pako Ayestarán,(Pachuca),2374,0,0
+237,335,José Morais,Jeonbuk Motors,2362,599,0
+238,250,B. Blaquart,Nîmes,2362,169,0
+239,236,Guto Ferreira,(Chapecoense),2350,0,0
+240,245,Paulo Autuori,Atlético Nacional,2318,49,0
+241,254,S. Moulin,Angers SCO,2292,169,53
+242,258,B. Schmetzer,Seattle Sounders,2285,148,0
+243,229,N. Dică,(FCSB),2284,0,107
+244,279,D. Stojković,Guangzhou R&F,2283,270,0
+245,242,Míchel,(Rayo Vallecano),2277,0,0
+246,243,R. Puente,(Querétaro),2276,0,0
+247,244,V. Milojević,Crvena Zvezda,2273,0,0
+248,211,Asier Garitano,(Real Sociedad),2270,0,294
+249,222,D. Cocca,Rosario Central,2260,0,221
+250,284,J. Cruijff,Chongqing Dangdai Lifan,2257,270,0
+,,,,,,
+251,237,J. van den Brom,AZ,2240,0,95
+252,235,D. Corredor,Patriotas Boyacá,2213,0,139
+253,265,M. Ševela,Slovan Bratislava,2203,88,0
+254,238,D. Khokhlov,Dinamo Moskva,2194,64,179
+255,247,V. Jílek,Sigma Olomouc,2191,0,39
+256,273,O. Buruk,Rizespor,2187,116,0
+257,239,G. Pelusso,(Deportivo Cali),2184,0,120
+258,253,L. Bernardi,Godoy Cruz,2178,0,0
+259,266,A. Bobadilla,Nacional Asunción,2178,66,0
+260,264,C. Pélissier,Amiens SC,2171,56,0
+,,,,,,
+261,312,Joaquín Caparrós,Sevilla,2168,297,0
+262,255,M. Ouzounidis,(AEK Athens),2159,0,0
+263,256,Silas,Belenenses,2155,49,51
+264,259,A. Alm,Häcken,2133,94,93
+265,260,D. Osella,Belgrano,2128,0,0
+266,262,Emad El Nahhas,Al Mokawloon,2128,0,0
+267,248,D. Mangia,CS U Craiova,2121,0,107
+268,263,Y. Vernydub,Zorya,2120,0,0
+269,251,L. Ramos,(Al Ittifaq),2114,0,76
+270,267,Dorival Júnior,(Flamengo),2112,0,0
+271,286,G. Hunt,Bidvest Wits,2110,145,0
+272,268,V. Sachko,(Vorskla),2103,0,0
+273,269,J. Curtin,Philadelphia Union,2095,0,0
+274,280,I. Mamrot,Jagiellonia Białystok,2086,76,0
+275,299,V. Halilhodžić,Nantes,2084,169,0
+,,,,,,
+276,272,N. Warnock,Cardiff City,2080,0,0
+277,293,Abel Braga,Flamengo,2078,238,90
+278,313,D. Canadi,Atromitos,2073,204,0
+279,261,G. Iachini,(Empoli),2060,0,68
+280,276,M. Koller,Basel,2059,28,0
+281,289,N. Lennon,Celtic,2055,111,0
+282,270,F. Mazzù,Sporting Charleroi,2053,0,40
+283,271,S. Lamouchi,(Rennes),2037,0,53
+284,281,Gilson Kleina,(Chapecoense),2003,0,0
+285,282,H. Ortiz,Gimnasia La Plata,2002,0,0
+,,,,,,
+286,283,C. Enache,Astra,1998,0,0
+287,249,Paulo Sousa,Bordeaux,1995,0,211
+288,285,M. Brys,Sint-Truiden,1986,0,0
+289,292,K. Hasegawa,Tokyo,1984,188,142
+290,307,Francisco,Huesca,1980,99,0
+291,257,O. Babych,Mariupol',1975,0,175
+292,295,J. Vukušič,Polokwane City,1973,48,0
+293,303,J. Gustafsson,Norrköping,1962,62,0
+294,287,H. Vanhaezebrouck,(Anderlecht),1959,0,0
+295,324,G. Hagi,Viitorul,1953,166,0
+296,288,D. McInnes,Aberdeen,1949,0,0
+297,329,G. Florentín,Guaraní,1947,200,33
+298,278,U. Stielike,Tianjin Teda,1946,90,158
+299,341,P. Bosz,Bayer Leverkusen,1942,226,0
+300,291,F. Castro,América de Cali,1938,0,0
+,,,,,,
+301,277,A. Zorniger,(Brøndby),1930,0,85
+302,296,B. McCarthy,Cape Town City,1925,0,0
+303,275,Sá Pinto,(Legia Warszawa),1923,0,119
+304,297,G. Savarese,Portland Timbers,1922,0,0
+305,311,K. Tembo,SuperSport United,1921,48,0
+306,298,R. Coolen,(Rosenborg),1917,0,0
+307,323,B. Olsen,DC United,1915,197,76
+308,300,Andoni Iraola,(AEK Larnaca),1914,0,0
+309,301,A. Casanova,Toulouse,1911,0,0
+310,315,João Henriques,Santa Clara,1904,49,0
+,,,,,,
+311,302,L. Álvarez,(Libertad),1902,0,0
+312,372,K. Mihayo,TP Mazembe,1899,332,0
+313,304,G. Martino,(Atlanta United),1899,0,0
+314,306,J. Bernal,(Rionegro Águilas),1891,0,0
+315,305,D. Petrescu,CFR Cluj,1884,28,36
+316,308,B. Schuster,(Dalian Yifang),1877,0,0
+317,309,G. Hoyos,(Atlas),1876,0,0
+318,359,M. Palermo,Pachuca,1875,268,0
+319,325,P. Tramezzani,APOEL,1867,82,0
+320,316,A. Baga,BATE,1854,0,0
+321,318,C. Ayala,Deportivo Capiatá,1849,0,0
+322,319,G. Poyet,(Bordeaux),1847,0,0
+323,364,J. Chamot,Libertad,1844,249,0
+324,343,Z. Ščasný,Sparta Praha,1841,131,0
+325,321,Miguel Cardoso,(Celta de Vigo),1836,0,0
+,,,,,,
+326,342,Jesualdo Ferreira,Al Sadd,1832,118,0
+327,333,Leonardo Jardim,Monaco,1822,56,0
+328,334,K. Hjulmand,Nordsjælland,1793,29,0
+329,345,K. Muscat,Melbourne Victory,1785,81,0
+330,356,Č. Janevski,Ismaily,1784,152,0
+331,326,D. Carreño,(Al Nassr),1782,0,0
+332,327,Byung-Soo Kim,Gangwon,1781,0,0
+333,317,P. Stokowiec,Lechia Gdańsk,1778,0,75
+334,330,R. Grigorchuk,Astana,1774,0,0
+335,360,C. Ranieri,Roma,1772,220,53
+,,,,,,
+336,340,S. Komphela,Golden Arrows,1771,48,0
+337,310,José Mota,Chaves,1770,49,154
+338,332,Adilson Batista,(América Mineiro),1768,0,0
+339,290,M. Carrera,(Spartak Moskva),1764,0,179
+340,336,N. Gorosito,Tigre,1754,0,0
+341,337,C. Coleman,Hebei CFFC,1754,0,0
+342,322,José Peseiro,(Sporting CP),1749,0,51
+343,368,Pepa,Tondela,1723,146,0
+344,294,E. Neagoe,Sepsi,1712,0,214
+345,344,L. Nilsen,Brann,1711,94,93
+346,376,Lito Vidigal,Boavista,1704,146,0
+347,358,A. Koster,Willem II,1703,93,0
+348,351,L. Slutsky,Vitesse,1702,31,0
+349,347,Mido,Al Wahda,1701,0,0
+350,353,C. Armas,New York RB,1700,49,0
+,,,,,,
+351,385,M. Božović,Krylya Sovetov,1698,192,0
+352,348,B. Storck,Royal Excel Mouscron,1691,0,0
+353,357,Y. Kazama,Nagoya Grampus,1685,63,0
+354,331,S. Billborn,Hammarby,1680,0,93
+355,350,Talaat Youssef,Misr Lel Makasa,1672,0,0
+356,361,Ehab Galal,Al Masry,1672,76,0
+357,349,Hossam Hassan,Smouha,1672,0,0
+358,352,Toni,(CFR Cluj),1666,0,0
+359,367,Sergio Piernas,Al Ittifaq,1660,81,0
+360,354,Chen Jingang,Changchun Yatai,1648,0,0
+,,,,,,
+361,338,Vágner Mancini,(Vitória),1647,0,89
+362,355,V. Ivić,Maccabi Tel Aviv,1637,0,0
+363,320,Wu Jingui,(Shanghai Shenhua),1635,0,211
+364,369,M. Petrović,Consadole Sapporo,1617,188,142
+365,393,J. Pinto,Millonarios,1607,292,146
+366,371,A. Postecoglou,Yokohama F. Marinos,1607,63,24
+367,339,B. Páník,Baník Ostrava,1606,0,118
+368,397,O. Ryabokon,Desna,1597,141,0
+369,362,Tarek El Ashri,Haras El Hodood,1596,0,0
+370,401,O. Da Gama,Highlands Park,1589,145,0
+371,366,Milton Mendes,(Sport Recife),1584,0,0
+372,384,S. Tomarov,Ufa,1583,64,0
+373,418,R. Garde,Montreal Impact,1568,197,0
+374,396,C. Levein,Hearts,1568,111,0
+375,328,R. Siboldi,Veracruz,1560,0,221
+,,,,,,
+376,373,M. Nikolić,Videoton,1560,0,0
+377,374,António Folha,Portimonense,1559,0,0
+378,472,F. Benzarti,Wydad Casablanca,1559,321,0
+379,377,E. Horneland,Rosenborg,1556,31,31
+380,363,J. Weber,Mladá Boleslav,1556,0,39
+381,534,A. Mansourian,Zob Ahan,1554,468,0
+382,399,M. Petke,Real Salt Lake,1546,148,54
+383,380,C. Makélélé,AS Eupen,1545,0,0
+384,379,M. Schneider,Thun,1544,28,32
+385,381,T. Thomasberg,Randers,1527,87,85
+,,,,,,
+386,400,Imanol Idiakez,AEK Larnaca,1526,82,0
+387,346,G. Vanney,Toronto,1522,0,180
+388,382,D. Kerkez,AEL,1522,0,0
+389,383,G. Verheyen,(KV Oostende),1520,0,0
+390,403,W. Fornalik,Piast Gliwice,1512,76,0
+391,386,C. Ledesma,(Tigre),1504,0,0
+392,387,M. Echeverría,(Tigre),1503,0,0
+393,370,S. Clarke,Kilmarnock,1496,0,74
+394,388,G. Donis,Panathinaikos,1496,0,0
+395,460,Choi Yong-Soo,Seoul,1480,211,0
+396,455,R. Rakhimov,Akhmat Grozny,1472,192,0
+397,407,Cho Kwi-Jea,Shonan Bellmare,1471,63,0
+398,391,S. Pantelidis,Aris,1466,0,0
+399,394,S. Poursaitidis,Nea Salamis,1459,0,0
+400,390,O. Melkemichel,(Djurgården),1454,0,31
+,,,,,,
+401,458,S. Corica,Sydney,1442,169,0
+402,412,C. Johnson,AmaZulu,1438,48,0
+403,402,K. Runjaic,Pogoń Szczecin,1437,0,0
+404,392,J. Cedergren,GIF Sundsvall,1432,0,31
+405,426,T. Popović,Perth Glory,1431,81,0
+406,430,M. Probierz,Cracovia Kraków,1414,76,0
+407,406,S. Aybaba,(Bursaspor),1414,0,0
+408,461,F. de Boer,Atlanta United,1410,148,0
+409,408,C. Michelsen,Kristiansund,1403,0,0
+410,422,D. Advocaat,Utrecht,1397,31,0
+,,,,,,
+411,409,F. Wormuth,Heracles,1394,0,0
+412,410,F. Dury,Zulte-Waregem,1393,0,0
+413,411,C. Prandelli,Genoa,1391,0,0
+414,378,D. Nielsen,AGF,1382,0,170
+415,413,J. Michelsen,OB,1378,0,0
+416,414,I. Petev,(Al Quadisiya),1377,0,0
+417,415,H. Bidoglio,Newell's Old Boys,1377,0,0
+418,416,N. El Maestro,(CSKA Sofia),1375,0,0
+419,435,E. Lara,Envigado,1375,49,0
+420,463,B. Korkmaz,Antalyaspor,1374,116,0
+421,417,G. Díaz,(León),1373,0,0
+422,398,T. Korkut,(Stuttgart),1372,0,83
+423,419,E. Almeida,Rionegro Águilas,1370,0,0
+424,421,Helmi Toulan,Al Ittihad,1368,0,0
+425,314,J. Heynckes,(Bayern München),1365,0,494
+,,,,,,
+426,423,P. Aussems,Simba,1363,0,0
+427,424,J. Kentoš,Žilina,1362,0,0
+428,425,F. Perlo,Independiente,1358,0,0
+429,375,A. Kocaman,Konyaspor,1352,39,246
+430,462,John Lammers,Esbjerg,1347,87,0
+431,507,J. Jönsson,Shimizu S-Pulse,1346,188,0
+432,454,I. Cherevchenko,(Baltika),1344,64,0
+433,428,C. Larsen,Chippa United,1344,0,0
+434,442,D. Fagermo,Odd,1340,125,93
+435,429,J. Sánchez Solá,Puebla,1339,0,0
+,,,,,,
+436,498,L. Pusineri,Deportivo Cali,1329,146,0
+437,434,I. Basay,Palestino,1328,0,0
+438,501,Daniel Ramos,Rio Ave,1325,146,0
+439,432,Petit,Marítimo,1325,146,154
+440,436,H. Nanami,Júbilo Iwata,1325,0,0
+441,437,Z. Hornyák,Slovan Liberec,1322,0,0
+442,439,Carpegiani,(Vitória),1320,0,0
+443,438,D. Lavagne,CS Constantine,1320,0,0
+444,440,Kim In-Wan,Jeonnam Dragons,1319,0,0
+445,441,Costinha,Nacional,1316,0,0
+446,492,L. González,Deportivo Lara,1312,119,0
+447,405,S. Robinson,Motherwell,1309,0,110
+448,443,R. Deila,Vålerenga,1308,94,93
+449,457,I. Chavos,Lamia,1308,34,0
+450,433,V. Paunovic,Chicago Fire,1304,49,76
+,,,,,,
+451,444,G. Esmerado,(Temperley),1304,0,0
+452,459,D. Buijs,Groningen,1302,31,0
+453,494,M. Teja,FCSB,1301,111,0
+454,404,J. Streppel,Anorthosis,1295,0,127
+455,446,M. Brosz,Górnik Zabrze,1294,76,75
+456,447,T. Gonias,Wadi Degla,1292,0,0
+457,448,M. Rastavac,Xanthi,1292,0,0
+458,449,Mokhtar Mokhtar,El Entag El Harby,1292,0,0
+459,450,F. Mercadal,Caen,1292,0,0
+460,485,K. Andersen,Midtjylland,1291,87,0
+,,,,,,
+461,452,G. Djuricin,(Rapid Wien),1288,0,0
+462,453,T. Wright,St. Johnstone,1285,0,0
+463,445,M. Hašek,Bohemians 1905,1283,98,118
+464,473,A. Heath,Minnesota United,1283,49,0
+465,471,E. Yanal,Fenerbahçe,1278,39,0
+466,467,I. Iliev,Cherno More,1256,84,81
+467,464,Yousef Alghadeer,(Al Batin),1255,0,0
+468,465,J. Olde Riekerink,(Heerenveen),1254,0,0
+469,468,A. Berti,(Argentinos Juniors),1252,0,0
+470,574,B. Marioni,Pumas UNAM,1250,268,0
+471,427,S. Watanabe,Vegalta Sendai,1250,0,95
+472,469,F. Stoican,CSM Iaşi,1248,0,0
+473,588,S. Mihajlović,Bologna,1246,293,0
+474,456,A. Groenendijk,ADO Den Haag,1243,93,127
+475,470,B. Bandović,Buriram United,1241,0,0
+,,,,,,
+476,509,M. Rednic,Dinamo Bucureşti,1239,83,0
+477,510,Ž. Kopić,Paphos,1236,82,0
+478,475,L. Eymael,El Geish,1230,0,0
+479,477,Y. Bakalov,Lviv,1222,0,0
+480,504,A. García,,1218,49,0
+481,478,M. Adiev,Anzhi,1214,0,0
+482,395,K. Özdeş,(Göztepe),1212,0,246
+483,365,P. Lavallén,Colón,1212,0,374
+484,483,A. Ghalenoei,Sepahan,1210,0,0
+485,389,A. Conte,(Chelsea),1209,0,284
+,,,,,,
+486,523,T. Dellas,Panaitolikos,1207,102,0
+487,484,G. Berhalter,(Columbus Crew),1206,0,0
+488,486,M. Weinzierl,Stuttgart,1204,0,0
+489,487,Jorginho,(Vasco da Gama),1204,0,0
+490,489,M. Denizli,Kasımpaşa,1200,0,0
+491,431,J. Gómez,Boyacá Chicó,1195,0,139
+492,491,A. Sal,Colo-Colo,1193,0,0
+493,495,D. Belmadi,(Al Duhail),1190,0,0
+494,497,Nuno Santos,(Feirense),1188,0,0
+495,499,L. Guyot,Cercle Brugge,1181,0,0
+496,500,J. Fossati,Al Ahli,1181,0,0
+497,502,F. Bustos,Delfin,1178,0,0
+498,466,Z. Zagorčić,Slavia Sofia,1173,0,81
+499,503,D. Nicola,(Udinese),1172,0,0
+500,513,P. Zeidler,St. Gallen,1172,28,0
+,,,,,,
+501,557,S. Méndez,Cúcuta Deportivo,1169,146,0
+502,643,H. ten Cate,Al Wahda,1169,371,0
+503,538,D. Holoubek,Ružomberok,1161,88,0
+504,479,O. Dall’Oglio,(Dijon),1160,0,53
+505,508,Rogério Micale,(Paraná),1157,0,0
+506,512,W. Nyirenda,Baroka,1151,0,0
+507,474,S. Yalçın,Alanyaspor,1147,39,123
+508,514,N. Kirov,Botev Plovdiv,1143,0,0
+509,515,B. Barak,Hapoel Be'er Sheva,1142,0,0
+510,543,Hamada Sedki,El Gounah,1140,76,0
+,,,,,,
+511,762,J. Sierra,Al Ittihad,1139,597,0
+512,516,A. Šoltís,Zemplín Michalovce,1138,0,0
+513,496,Jorge Simão,(Boavista),1138,0,51
+514,517,G. Quinteros,Universidad Católica,1129,0,0
+515,518,T. Letsch,(Austria Wien),1127,0,0
+516,519,R. Moniz,Excelsior,1123,0,0
+517,520,I. Burchnall,Östersunds FK,1122,0,0
+518,482,P. Repetto,LDU Quito,1121,0,90
+519,481,S. Maalen,Ranheim,1119,0,93
+520,490,A. Tomash,Beroe,1114,0,81
+521,521,Bruno Baltazar,(APOEL),1112,0,0
+522,524,C. Torres,Alianza Petrolera,1103,0,0
+523,540,R. Eijer,Fortuna Sittard,1100,31,0
+524,525,Wang Baoshan,Henan Jianye,1100,0,0
+525,526,M. Baroni,Frosinone,1099,0,0
+,,,,,,
+526,527,Vincent Rautureau,Guingamp,1098,0,0
+527,528,Kyung-Seob Song,(Gangwon),1098,0,0
+528,493,K. Ingebrigtsen,(Rosenborg),1098,0,93
+529,529,T. Henry,(Monaco),1097,0,0
+530,530,M. Hughes,(Southampton),1096,0,0
+531,533,A. Kombouare,Dijon,1090,56,53
+532,531,T. Skullerud,(Strømsgodset),1089,0,0
+533,532,E. Berizzo,(Athletic Club),1089,0,0
+534,451,D. Ballardini,(Genoa),1085,0,205
+535,550,G. Petrakis,PAS Giannina,1082,34,0
+,,,,,,
+536,506,A. Breitenreiter,(Hannover 96),1076,0,83
+537,537,Q. Qurbanov,Qarabağ,1073,0,0
+538,539,P. Neveu,(Horoya),1071,0,0
+539,541,B. Henriksen,Horsens,1068,0,0
+540,542,R. Çalımbay,(Konyaspor),1067,0,0
+541,544,Mohamed Ouda,Petrojet,1064,0,0
+542,545,Ali Maher,ENPPI,1064,0,0
+543,546,F. Torres,(Atlético Bucaramanga),1064,0,0
+544,547,M. Stolarczyk,Wisła Kraków,1060,0,0
+545,548,K. Bergstrand,Djurgården,1059,94,93
+546,585,J. Thelin,Elfsborg,1058,94,0
+547,558,M. Steijn,VVV,1053,31,0
+548,636,N. Zekri,Al Feiha,1053,243,0
+549,551,A. Julio,(Santa Fe),1044,0,0
+550,562,D. Nowak,Miedź Legnica,1035,25,0
+,,,,,,
+551,522,G. Lettieri,Korona Kielce,1033,0,75
+552,601,S. Arveladze,Pakhtakor,1031,124,0
+553,420,H. Marecos,Deportivo Santaní,1030,0,338
+554,480,S. Valakari,Tromsø,1027,0,186
+555,555,D. Pérez,(Atlético Huila),1025,0,0
+556,556,F. Inzaghi,(Bologna),1024,0,0
+557,561,G. Holt,Livingston,1014,0,0
+558,575,C. Ilzer,Wolfsberger AC,1009,30,0
+559,583,G. Festa,Larissa,1002,34,0
+560,563,H. Crespo,Banfield,1001,0,0
+,,,,,,
+561,579,W. Joyce,Melbourne City,1000,27,0
+562,564,M. Rudan,Wellington Phoenix,999,0,0
+563,565,Ismael Rescalvo,Independiente del Valle,997,0,0
+564,566,C. Arslan,(Akhisarspor),997,0,0
+565,567,S. Hejkal,Teplice,997,0,0
+566,600,P. Hyballa,DAC,995,88,0
+567,569,A. Zdravkov,Ludogorets,993,0,0
+568,570,P. Cocu,(Fenerbahçe),992,0,0
+569,571,José Gomes,Reading,991,0,0
+570,572,I. Tudor,Udinese,991,0,0
+571,535,E. Merrick,Newcastle Jets,991,0,82
+572,573,Alaa Abdelaal,El Daklyeh,988,0,0
+573,591,Domènec Torrent,New York City,984,49,0
+574,505,I. Ledyakhov,(Akhmat Grozny),983,0,179
+575,576,M. Bílek,(Zlín),977,0,0
+,,,,,,
+576,511,M. Almeyda,SJ Earthquakes,976,0,175
+577,578,Tiago Fernandes,(Chaves),975,0,0
+578,577,M. Wieghorst,(AaB),975,0,0
+579,581,Hélder Cristóvão,(Al Nassr),972,0,0
+580,580,S. Muslin,(Al Feiha),972,0,0
+581,582,J. Real,(Alianza Petrolera),970,0,0
+582,554,A. Kjäll,Örebro,965,31,93
+583,584,P. Asbaghi,IFK Göteborg,965,0,0
+584,586,F. Rutten,Anderlecht,963,0,0
+585,623,I. Kopecký,Opava,949,98,0
+,,,,,,
+586,589,İ. Kartal,(Ankaragücü),947,0,0
+587,661,T. Katanosaka,Oita Trinita,940,188,0
+588,590,V. Zvunka,Club Africain,939,0,0
+589,560,H. Vogel,(Sturm Graz),936,0,78
+590,559,K. Schmidt,Mattersburg,936,0,78
+591,592,B. Friedel,New England,933,0,0
+592,594,J. Pautasso,Melgar,932,0,0
+593,595,G. De Boeck,Lokeren,930,0,0
+594,607,H. Keleş,Sivasspor,929,39,0
+595,596,T. Pawłowski,(Śląsk Wrocław),928,0,0
+596,647,H. Rivera,Unión Magdalena,926,146,0
+597,606,M. Kurz,Adelaide United,919,27,0
+598,617,E. Middendorp,Kaizer Chiefs,917,48,0
+599,630,J. Askou,Vendsyssel,912,87,0
+600,598,R. Díaz,Asyouty Sport,912,0,0
+,,,,,,
+601,597,Ahmed Samy,(Nogoom),912,0,0
+602,602,M. Schopp,Hartberg,906,0,0
+603,603,M. Köllner,(Nürnberg),902,0,0
+604,604,A. Bjørkan,Bodø / Glimt,901,0,0
+605,605,D. Alexa,Dunărea Călăraşi,900,0,0
+606,568,N. Bergstrand,(Kalmar),900,0,93
+607,488,Fernando Diniz,Fluminense,900,0,300
+608,624,H. Sierra,La Equidad,899,49,0
+609,618,D. Lukkien,Emmen,898,31,0
+610,553,Yoon Jung-Hwan,(Cerezo Osaka),887,0,142
+,,,,,,
+611,622,L. Hadjiloukas,Doxa,880,27,0
+612,611,Augusto Inácio,Desportivo Aves,877,0,0
+613,612,A. Andreazzoli,Empoli,877,0,0
+614,549,O. Boychyshyn,(Karpaty),875,0,175
+615,614,T. Tuna,Göztepe,873,0,0
+616,615,H. Karaman,Kayserispor,872,0,0
+617,616,E. Tinkler,Maritzburg United,869,0,0
+618,621,G. Paraschos,Asteras Tripolis,867,34,28
+619,593,M. Jara,Independiente FBC,866,0,66
+620,619,G. Solinas,(Kaizer Chiefs),865,0,0
+621,552,C. Nørgaard,(SønderjyskE),862,0,170
+622,620,G. Potter,Swansea City,861,0,0
+623,629,Manolo Jiménez,AEK Athens,861,34,0
+624,536,D. Wagner,(Huddersfield Town),860,0,213
+625,608,F. Villalba,(General Díaz),853,0,33
+,,,,,,
+626,625,Juanma Lillo,Vissel Kobe,849,0,0
+627,626,J. Csaplár,(Příbram),847,0,0
+628,627,S. Ogbeide,Lobi Stars,842,0,0
+629,669,M. Hristov,Septemvri Sofia,840,112,0
+630,751,A. Stanojević,Beijing Renhe,837,270,0
+631,476,A. Wenger,(Arsenal),835,0,391
+632,654,D. Alenichev,Yenisey,831,64,0
+633,628,J. Lennartsson,Lillestrøm,828,0,0
+634,631,W. Centeno,Deportivo Saprissa,824,0,0
+635,652,D. Kerr,Black Leopards,820,48,0
+,,,,,,
+636,632,D. Gavilán,(Deportivo Capiatá),819,0,0
+637,633,V. Miriuță,Hermannstadt,818,0,0
+638,634,Z. Mirković,Partizan,816,0,0
+639,637,A. César,ASEC Mimosas,807,0,0
+640,638,F. Ibenge,Vita Club,806,0,0
+641,639,A. Poldervaart,(Excelsior),806,0,0
+642,640,H. de Jong,De Graafschap,805,0,0
+643,641,D. Di Carlo,Chievo,804,0,0
+644,610,S. Schmid,(LA Galaxy),802,0,76
+645,642,Chang Woe-Ryong,(Henan Jianye),799,0,0
+646,609,K. Balakov,Etar,798,0,81
+647,664,A. Chervenkov,Chornomorets,797,47,0
+648,644,R. Sanzhar,(Olimpik Donetsk),796,0,0
+649,587,M. Bakkal,Bursaspor,792,0,164
+650,656,M. Yakin,Sion,791,28,0
+,,,,,,
+651,645,K. Zaoui,Saoura,788,0,0
+652,646,B. Akrapović,Lokomotiv Plovdiv,782,0,0
+653,648,C. Giraldo,Atlético Bucaramanga,780,0,0
+654,649,C. Robinson,(Vancouver Whitecaps),776,0,0
+655,650,M. Özdilek,(BB Erzurumspor),776,0,0
+656,651,D. Toppmöller,F91 Dudelange,776,0,0
+657,653,J. Soto,Herediano,769,0,0
+658,692,B. van Dael,Zagłębie Lubin,759,76,0
+659,658,H. Medford,(Herediano),755,0,0
+660,659,H. Ertürk,Kayserispor,753,0,0
+,,,,,,
+661,660,R. Rodríguez,(Newell's Old Boys),752,0,0
+662,662,R. Skuhravý,Dukla Praha,752,0,0
+663,613,J. Pumpido,(Patronato),751,0,125
+664,665,P. Hapal,(Sparta Praha),744,0,0
+665,680,C. Falch,Enosis,735,27,0
+666,713,A. Mantzios,Panionios,731,102,0
+667,655,G. Mulţescu,(Astra),731,0,36
+668,683,Z. Smółka,Arka Gdynia,730,25,0
+669,666,A. Souayah,Ohod,729,0,0
+670,668,J. O'Connor,Orlando City,728,0,0
+671,670,Kibu Vicuña,(Wisła Płock),727,0,0
+672,672,Pablo Caballero,(Independiente FBC),721,0,0
+673,673,T. Fink,(Grasshopper),720,0,0
+674,674,M. Ponce,San José,719,0,0
+675,710,N. Klinger,Beitar Jerusalem,719,82,0
+,,,,,,
+676,675,A. Apud,(Boston River),716,0,0
+677,676,I. Galád,(Nitra),715,0,0
+678,718,M. Vucetich,Querétaro,714,89,0
+679,719,R. La Volpe,Toluca,714,89,0
+680,677,D. Moore,West Bromwich Albion,710,0,0
+681,678,P. Pezzolano,Liverpool,708,0,0
+682,679,T. Miyamoto,Gamba Osaka,708,0,0
+683,681,R. Weiler,(Luzern),707,0,0
+684,686,B. Bektaş,(Ankaragücü),696,0,0
+685,687,Fran Escribá,Celta de Vigo,693,0,0
+,,,,,,
+686,688,M. Canning,Hamilton Academical,692,0,0
+687,0,R. Duarte,Santos Laguna,689,600,0
+688,689,E. Rivera,3 de Febrero,688,0,0
+689,728,Y. Abukasis,Bnei Yehuda,681,82,0
+690,693,S. Drapić,Maccabi Netanya,680,0,0
+691,694,M. Ficcadenti,(Sagan Tosu),679,0,0
+692,657,A. Hudson,Colorado Rapids,678,0,79
+693,695,H. Wolf,Hamburger SV,678,0,0
+694,706,F. Celestini,Lugano,677,28,0
+695,697,A. Čustović,Waasland-Beveren,676,0,0
+696,599,J. Marsch,RB Leipzig,674,0,234
+697,726,Y. Golmohammadi,Padideh Khorasan,672,72,0
+698,732,S. Dramov,Botev Vratsa,672,84,0
+699,699,Yoo Sang-Chul,(Jeonnam Dragons),671,0,0
+700,700,F. Kudelka,Universidad Chile,669,0,0
+,,,,,,
+701,752,D. Farrar,River Plate,665,100,0
+702,738,L. Ciobotariu,Botoşani,665,83,0
+703,701,Julio Velázquez,(Udinese),659,0,0
+704,703,Q. Osmani,Shkendija,656,0,0
+705,704,K. Rekdal,Start,655,0,0
+706,705,M. Koretski,Hapoel Ra'anana,651,0,0
+707,707,C. Porter,Columbus Crew,641,0,0
+708,792,L. Gonzalez,Dallas,641,148,0
+709,709,C. Bergodi,Voluntari,638,0,0
+710,711,S. Orteman,Sportivo San Lorenzo,633,0,0
+,,,,,,
+711,712,López Caro,Shenzhen,630,0,0
+712,748,M. Svědík,Slovácko,628,98,39
+713,715,C. Sakkas,Alki Oroklini,627,0,0
+714,717,G. Milito,Estudiantes,626,0,0
+715,716,R. Caruso Lombardi,San Martín Tucumán,626,0,0
+716,720,E. Villalba,(Libertad),622,0,0
+717,721,J. Stam,PEC Zwolle,620,0,0
+718,722,K. Stromsik,Sereď,615,0,0
+719,723,S. Stojanovič,(Levski Sofia),614,0,0
+720,682,M. Jacobacci,(Sion),612,0,95
+721,685,J. Anigo,(Panionios),612,0,85
+722,724,Moamen Soliman,Nogoom,608,0,0
+723,768,A. Daei,Saipa,606,72,0
+724,691,V. Cifranič,Trenčín,600,0,85
+725,727,S. Gurenko,Dinamo Minsk,600,0,0
+,,,,,,
+726,806,R. Torres,Sportivo Luqueño,599,133,0
+727,786,H. Berg,Stabæk,592,94,0
+728,730,André Jardine,São Paulo,589,0,0
+729,733,Unzué,(Celta de Vigo),588,0,0
+730,734,Sandro Mendes,Vitória Setúbal,586,0,0
+731,735,Y. Anastasiou,Omonia Nicosia,586,0,0
+732,736,M. Longo,(Frosinone),585,0,0
+733,737,I. Badea,(Concordia Chiajna),585,0,0
+734,741,A. Taşyürek,Ümranıyespor,580,0,0
+735,740,E. Kahyaoğlu,Akhisarspor,580,0,0
+,,,,,,
+736,742,A. Sormani,(Vejle),579,0,0
+737,743,E. Espinel,(Wanderers),578,0,0
+738,744,R. Mählich,Sturm Graz,574,0,0
+739,749,P. Peirano,(Danubio),568,0,0
+740,708,D. Moyes,(West Ham United),568,0,71
+741,750,F. Vercauteren,(Al Batin),567,0,0
+742,764,M. Babbel,Western Sydney Wander..,567,27,0
+743,671,M. Kordula,(Slovácko),565,0,157
+744,795,Lim-Saeng Lee,Suwon Bluewings,562,70,0
+745,901,Nam Ki-Il,Seongnam,562,211,0
+746,753,N. Papadopoulos,(OFI),561,0,0
+747,754,Martí Cifuentes,Sandefjord,560,0,0
+748,729,M. van der Gaag,(NAC Breda),558,0,32
+749,684,T. Takagi,V-Varen Nagasaki,558,0,142
+750,756,R. Valdez,Sarmiento Resistencia,556,0,0
+,,,,,,
+751,755,G. Coleoni,Central Córdoba SdE,556,0,0
+752,635,J. Rodríguez,(Jaguares de Córdoba),555,0,259
+753,714,E. Acevedo,(Defensor Sporting),552,0,76
+754,663,W. Zenga,(Crotone),546,0,205
+755,759,E. Baumeister,(Admira),546,0,0
+756,761,A. Pelici,(Hermannstadt),542,0,0
+757,763,Quique Sánchez Flores,Shanghai Shenhua,540,0,0
+758,667,R. Wicky,(Basel),539,0,190
+759,765,M. Méndez,Danubio,538,0,0
+760,766,L. Cufré,Atlas,536,0,0
+,,,,,,
+761,746,C. Pustai,(Gaz Metan Mediaş),536,0,36
+762,972,J. Torrente,Morelia,535,268,0
+763,769,N. Kavazović,Free State Stars,531,0,0
+764,770,Valdir Bigode,(Vasco da Gama),529,0,0
+765,771,Givanildo Oliveira,América Mineiro,528,0,0
+766,772,F. Davids,(Maritzburg United),528,0,0
+767,773,Dado Cavalcanti,Paraná,528,0,0
+768,825,E. Iordănescu,Gaz Metan Mediaş,526,83,0
+769,774,J. Masutha,(Chippa United),523,0,0
+770,775,M. Sönmez,Hatayspor,522,0,0
+771,777,Hakeem Shakir,Al Zawra'a,517,0,0
+772,778,S. Mimer,Hapoel Haifa,517,0,0
+773,779,F. Bozán,Univ. Concepción,515,0,0
+774,780,Paco Herrera,Las Palmas,510,0,0
+775,725,E. Sturing,Vitesse,507,0,95
+,,,,,,
+776,781,K. Daxbacher,(Wacker Innsbruck),505,0,0
+777,782,O. Kearney,St. Mirren,505,0,0
+778,783,H. Lisi,(Deportivo Pasto),503,0,0
+779,827,Y. Sorimachi,Matsumoto Yamaga,502,63,0
+780,784,R. Sanzotti,(Argentinos Juniors),501,0,0
+781,802,N. Miljanovic,AFC Eskilstuna,501,31,0
+782,776,S. Allardyce,(Everton),497,0,25
+783,789,Paco Jémez,Rayo Vallecano,494,0,0
+784,885,Rui Faria,Al Duhail,494,132,0
+785,790,P. Heckingbottom,Hibernian,494,0,0
+,,,,,,
+786,791,P. Sarabia,(Sportivo Luqueño),493,0,0
+787,793,L. Franco,(Huesca),492,0,0
+788,794,A. Kuhn,(Hobro),492,0,0
+789,848,L. Penev,CSKA Sofia,490,84,0
+790,767,H. Torres,Alajuelense,490,0,46
+791,797,F. Arce,(Ohod),486,0,0
+792,798,L. Marin,San Carlos,484,0,0
+793,799,L. Seema,Bloemfontein Celtic,482,0,0
+794,800,A. Nawałka,(Lech Poznań),481,0,0
+795,757,M. Milanović,Radnik Surdulica,480,0,75
+796,702,R. Mancini,(Zenit),478,0,179
+797,816,M. Mohajeri,Gostaresh Foolad Tabriz,477,24,0
+798,698,S. Rebrov,Ferencváros,473,0,199
+799,918,I. Leonov,Arsenal Kyiv,470,141,0
+800,803,V. Quesada,(Deportivo Saprissa),467,0,0
+,,,,,,
+801,804,R. Monarev,Zirka,466,0,0
+802,787,J. van 't Schip,(PEC Zwolle),465,0,32
+803,902,M. Kaplan,Ankaragücü,465,116,0
+804,808,Y. Ferrera,(Waasland-Beveren),463,0,0
+805,809,N. Sanvicente,Caracas,462,0,0
+806,810,R. Nadvornik,Příbram,458,0,0
+807,811,V. Cheburin,Sūduva,458,0,0
+808,812,A. Minteuan,(CFR Cluj),457,0,0
+809,696,G. Espinoza,(Atlas),455,0,221
+810,813,A. Talalaev,Pyunik,455,0,0
+,,,,,,
+811,814,R. Björknesjö,Brommapojkarna,454,0,0
+812,815,N. Maâloul,(Al Duhail),453,0,0
+813,872,B. Schommers,Nürnberg,451,75,0
+814,745,D. Rossi,(Levski Sofia),451,0,122
+815,817,M. Decastel,(Neuchâtel Xamax),450,0,0
+816,760,A. Erlandsen,(Lillestrøm),450,0,93
+817,819,W. Vrancken,Mechelen,446,0,0
+818,820,H. Chávez,(Veracruz),446,0,0
+819,821,G. Almada,Barcelona,446,0,0
+820,818,José Alberto López,Sporting Gijón,446,0,0
+821,823,A. Tikhonov,(Krylya Sovetov),445,0,0
+822,822,W. Grabherr,(Rheindorf Altach),445,0,0
+823,824,G. Sablić,Sheriff,444,0,0
+824,906,J. Vera,OFI,442,102,0
+825,942,O. Upegui,Jaguares de Córdoba,439,146,0
+,,,,,,
+826,828,Lotina,Cerezo Osaka,439,0,0
+827,830,M. Đukić,(Partizan),435,0,0
+828,831,H. Hamzaoğlu,BB Erzurumspor,434,0,0
+829,807,P. Winqvist,(Trelleborg),434,0,31
+830,832,M. Tartar,Pars Jam Bushehr,432,0,0
+831,833,V. Ivanauskas,Zagłębie Sosnowiec,430,0,0
+832,834,J. Carrasco,Fénix,429,0,0
+833,835,P. Ferrari,(Rosario Central),428,0,0
+834,873,V. Shevchuk,Olimpik Donetsk,423,47,0
+835,836,K. Chkhetiani,Torpedo Kutaisi,422,0,0
+,,,,,,
+836,837,O. Jóhannesson,Valur,420,0,0
+837,838,L. Arnáez,(Alajuelense),419,0,0
+838,747,J. Kreis,(Orlando City),418,0,152
+839,801,A. Tarkhanov,(Ural),418,0,60
+840,839,V. Evseev,Amkar Perm',418,0,0
+841,758,N. Craviotto,(Atlético Huila),415,0,139
+842,841,P. Sørensen,Hobro,414,0,0
+843,843,L. Reghecampf,Al Wasl,409,0,0
+844,845,C. Ellili,(Club Africain),408,0,0
+845,846,K. Frolov,(Chornomorets),408,0,0
+846,826,J. de Jong,(Utrecht),408,0,32
+847,847,N. Karageorgiou,Levadiakos,408,0,0
+848,921,P. Rogan,Spartak Subotica,404,76,0
+849,788,Luis Pimenta,(Brommapojkarna),403,0,93
+850,850,Luizinho Vieira,Luverdense,401,0,0
+,,,,,,
+851,851,M. Stahre,(SJ Earthquakes),398,0,0
+852,852,A. Fyodorov,Lokomotiv,396,0,0
+853,853,P. Amodio,Progrès Niederkorn,394,0,0
+854,854,A. Koch,Cincinnati,394,0,0
+855,855,A. Neaga,ACS Poli Timişoara,393,0,0
+856,856,P. Donev,Dunav 2010,392,0,0
+857,857,G. Dermendzhiev,Levski Sofia,392,0,0
+858,905,G. Bedoya,Santa Fe,392,49,0
+859,690,José Ángel Ziganda,(Athletic Club),392,0,294
+860,858,P. Vlachovský,(Slovácko),392,0,0
+,,,,,,
+861,860,R. Kirilov,Vitosha Bistritsa,391,0,0
+862,861,J. Jarábek,(Zlaté Moravce),390,0,0
+863,862,J. Bodmer,(Jaguares de Córdoba),390,0,0
+864,891,R. Popović,St. Pölten,387,30,0
+865,842,B. Tennes,(Apollon Smirnis),385,0,28
+866,864,G. Leekens,Tractor Sazi,384,0,0
+867,865,L. Elsner,Union Saint-Gilloise,382,0,0
+868,866,Mohamed Helmi,(El Geish),380,0,0
+869,867,T. Silva,(Real Garcilaso),380,0,0
+870,868,H. Silbas,(Ironi Kiryat Shmona),379,0,0
+871,869,M. Cardetti,(San Carlos),379,0,0
+872,870,M. Gómez,(Godoy Cruz),376,0,0
+873,871,P. Quatrocchi,(Estudiantes),376,0,0
+874,874,J. Sandahl,(Dalkurd),375,0,0
+875,952,K. Knutsen,Bodø / Glimt,375,94,0
+,,,,,,
+876,785,S. Rondina,Arsenal,374,0,125
+877,849,Toni Ordinas,(Stabæk),372,0,31
+878,877,J. McIntyre,Dundee,372,0,0
+879,878,S. Jokanović,(Fulham),371,0,0
+880,840,R. Bedoya,(Envigado),370,0,46
+881,879,C. Aldirico,Temperley,370,0,0
+882,844,D. Šmejkal,(Teplice),370,0,39
+883,880,Paulo Bento,(Chongqing Dangdai Li..,369,0,0
+884,948,S. Henchoz,Neuchâtel Xamax,368,85,0
+885,805,F. Ortiz,(Sol de América),368,0,98
+,,,,,,
+886,910,R. Ibertsberger,Austria Wien,368,30,0
+887,881,R. Cuello,Wanderers,367,0,0
+888,882,F. Robatto,(Jaguares de Córdoba),366,0,0
+889,859,F. Correa,(Cerro),366,0,25
+890,883,D. Milanič,Maribor,366,0,0
+891,884,L. Sebti,Al Jeel,364,0,0
+892,886,R. Levy,(Anorthosis),362,0,0
+893,887,J. Borg,B36,360,0,0
+894,888,A. Marzban,Naft Masjed Soleyman,360,0,0
+895,889,Vinícius Eutrópio,(Bolívar),360,0,0
+896,890,H. Tapia,(Real Garcilaso),360,0,0
+897,892,J. Giacone,Pérez Zeledón,357,0,0
+898,893,Miguel Portugal,Wilstermann,356,0,0
+899,894,Cláudio Prates,(Bahia),356,0,0
+900,896,Gilson,Al Rayyan,354,0,0
+,,,,,,
+901,898,João Burse,(Vitória),353,0,0
+902,897,R. Pivarník,Zlín,353,0,0
+903,900,Eduardo Baptista,Vila Nova,352,0,0
+904,903,J. Friis,AaB,348,0,0
+905,0,C. Vivas,Sporting Cristal,347,149,0
+906,904,S. Antoniou,(Larissa),345,0,0
+907,907,R. Berdyev,Nasaf,340,0,0
+908,908,F. Schmidt,Heidenheim,339,0,0
+909,909,S. Baumgart,Paderborn,339,0,0
+910,911,J. da Silva,Defensor Sporting,337,0,0
+,,,,,,
+911,975,A. Ghotbi,Foolad,336,72,0
+912,912,N. Lalatović,Radnički Niš,334,0,0
+913,913,N. Harris,Millwall,334,0,0
+914,914,M. Fabuľa,(Podbrezová),333,0,0
+915,739,P. Stöger,(Borussia Dortmund),332,0,249
+916,915,V. Lavička,Śląsk Wrocław,329,0,0
+917,916,M. Kosanović,Napredak,329,0,0
+918,917,Fabri González,Karpaty,329,0,0
+919,920,S. Krunić,Čukarički,328,0,0
+920,876,J. Chávez,Santos de Guápiles,328,0,45
+921,919,J. Azconzábal,(Guaraní),328,0,0
+922,0,R. Geyer,Admira,327,89,0
+923,922,S. Pressley,(Paphos),327,0,0
+924,923,N. Avitan,Hapoel Hadera,327,0,0
+925,924,Bandar Basryh,Al Quadisiya,324,0,0
+,,,,,,
+926,863,M. Panait,Al Batin,324,0,66
+927,925,M. Lehkosuo,HJK,316,0,0
+928,899,V. Petržela,(Zlín),314,0,39
+929,926,B. Uygun,(Al Rayyan),311,0,0
+930,927,M. Mićović,Balzan,311,0,0
+931,928,N. Hrnčár,(Karviná),310,0,0
+932,930,Kim Myung Hwi,Sagan Tosu,305,0,0
+933,931,C. Jara Saguier,(Deportivo Santaní),304,0,0
+934,932,Jorvan Vieira,(Ismaily),304,0,0
+935,933,J. Giordano,River Plate,304,0,0
+,,,,,,
+936,0,Á. Gutiérrez,Nacional,301,149,0
+937,0,H. Stevens,Schalke 04,301,75,0
+938,934,E. Favaro,El Nacional,300,0,0
+939,935,L. Escobar,General Díaz,299,0,0
+940,936,S. Cusin,(Ermis),298,0,0
+941,992,M. Soso,Emelec,298,50,0
+942,937,N. McCann,(Dundee),296,0,0
+943,938,A. Vera,(Sol de América),296,0,0
+944,939,T. Sollied,(Lokeren),296,0,0
+945,940,G. Baumgartner,(Mattersburg),296,0,0
+946,731,C. Seedorf,(Deportivo La Coruña),294,0,294
+947,941,José González,(Málaga),294,0,0
+948,995,L. Herrera,Atlético Huila,293,49,0
+949,943,C. Kaiafas,(Ermis),292,0,0
+950,944,Paulo Sérgio,Sanat Naft,288,0,0
+,,,,,,
+951,945,P. Lambert,Ipswich Town,287,0,0
+952,949,V. Urbonas,Žalgiris,283,0,0
+953,950,T. Caanen,(Senica),283,0,0
+954,951,T. Doll,Hannover 96,283,0,0
+955,0,B. Berntsen,Viking,282,94,0
+956,954,D. Aničić,Voždovac,278,0,0
+957,955,D. Munteanu,(Concordia Chiajna),278,0,0
+958,956,N. Milovanović,Mladost Lučani,277,0,0
+959,957,Joan Carrillo,(Wisła Kraków),275,0,0
+960,958,R. Villamizar,Atlético Bucaramanga,274,0,0
+,,,,,,
+961,959,T. Kashtan,Ironi Kiryat Shmona,273,0,0
+962,960,R. Donadoni,(Bologna),273,0,0
+963,0,M. Balbul,Maccabi Haifa,273,82,0
+964,961,Yuri,(Al Rayyan),272,0,0
+965,962,S. Pruidze,Chikhura,272,0,0
+966,963,Li Tie,Wuhan Zall,270,0,0
+967,965,E. Malvestiti,(Nacional Potosí),270,0,0
+968,966,K. Bidzhiyev,Avangard Kursk,269,0,0
+969,968,D. Preiss,Grazer AK,268,0,0
+970,969,J. Real,(Toluca),268,0,0
+971,970,Marcelo Chamusca,Vitória,267,0,0
+972,971,Marcos Paquetá,(Botafogo),267,0,0
+973,973,J. Basualdo,(Deportivo Capiatá),266,0,0
+974,974,M. Pusic,Twente,266,0,0
+975,976,Fabio Moreno,(Fluminense),264,0,0
