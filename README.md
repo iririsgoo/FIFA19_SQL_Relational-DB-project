@@ -50,13 +50,15 @@ Project timeline:
 
 - Homepage![](images/FIFA_homepage.png)
 
-- Player Profile
-> Profile | Skills | Position ![](images/FIFA_Player%20Profile.png)
+- Player Analysis
+> Player Profile | Skills Comparison | Ranking by Position
+>>Player Profile
+>>![](images/FIFA_Player%20Profile.png)
 
-- Player Comparison 
->![](images/FIFA_Player%20Analysis.png)
+>> SKills Comparison 
+>>![](images/FIFA_Player%20Analysis.png)
 
-- Player Ranking by position
+>> Ranking by Position
 >![](images/FIFA_Position%20Analysis.png)
 
 - Country
@@ -68,9 +70,8 @@ Project timeline:
 > Players' info in different leagues
 >![](images/FIFA_Player's_info_by_League.png)
 
-- SQL Pitch
+- SQL Pitch 
 > For users to DIY their own SQL queries
-
 >![](images/FIFA_The%20SQL%20Pitch.png)
 
 
