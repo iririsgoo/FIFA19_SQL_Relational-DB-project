@@ -34,9 +34,9 @@ Project timeline:
 ## ETL Process
 ### Extract: Data Source
 - FIFA 2018 Complete Player Dataset: [Kaggle](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset)
-- Club coach: [ClubWorldRanking](https://www.clubworldranking.com/ranking-coaches?wd=16&yr=2019&index=0) ([scraying code](coaches.py))
-- League and Club: [Skysports](https://www.skysports.com/football/teams)([scrapying code](leagues.py))
-- Standing: [Skysports](https://www.skysports.com/football/tables)([scrapying code](standings.py))
+- Club coach: [ClubWorldRanking](https://www.clubworldranking.com/ranking-coaches?wd=16&yr=2019&index=0) ([scraing code](coaches.py))
+- League and Club: [Skysports](https://www.skysports.com/football/teams)([scraping code](leagues.py))
+- Standing: [Skysports](https://www.skysports.com/football/tables)([scraping code](standings.py))
 
 ### Transform 
 - [Data cleaning](datacleansing.rmd)
