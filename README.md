@@ -1,5 +1,6 @@
 # SQL-and-Relational-Databases-Project
 SQL and Relational Databases course group project, Columbia University(2019 Spring)
+
 Teammates: @ZhijunLiu96, Kaiying Mo, Yuanyuan Li, Amy Fa
 
 Project timeline:
