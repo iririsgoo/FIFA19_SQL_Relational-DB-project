@@ -63,8 +63,10 @@ Project timeline:
 
 - Country
 > World Cup | Map Explorer
->![](images/FIFA_World_cup_winner_by_year.png)
->![](images/FIFA_Talent_distribution_by_country.png)
+>> World_cup_winner_by_year
+>>![](images/FIFA_World_cup_winner_by_year.png)
+>>Talent_distribution_by_country
+>>![](images/FIFA_Talent_distribution_by_country.png)
 
 - League
 > Players' info in different leagues
