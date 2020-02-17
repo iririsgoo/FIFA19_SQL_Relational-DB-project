@@ -55,7 +55,7 @@ Project timeline:
 ![](images/FIFA_homepage.png)
 
 - Player Profile
->> Profile | Position | Skills
+> Profile | Position | Skills
 
 ![](images/FIFA_Player%20Profile.png)
 
@@ -68,13 +68,13 @@ Project timeline:
 ![](images/FIFA_Position%20Analysis.png)
 
 - Country
->> World Cup | Map Explorer
+> World Cup | Map Explorer
 
 - League
->> Players' info in different leagues
+> Players' info in different leagues
 
 - SQL Pitch
->> For users to DIY their own SQL queries
+> For users to DIY their own SQL queries
 
 ![](images/FIFA_The%20SQL%20Pitch.png)
 
