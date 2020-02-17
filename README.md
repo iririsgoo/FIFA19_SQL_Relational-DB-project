@@ -26,7 +26,7 @@ Project timeline:
 
 
 ## Design 
-### Database schema in 3NF
+### Database schema in 3NF [code](Schema/fifa%203NF%20populate.Rmd)
 
 ![](Schema/ER_Diagram.png)
 
@@ -39,8 +39,8 @@ Project timeline:
 - League and Club: [Skysports](https://www.skysports.com/football/teams)([scrapying code](leagues.py))
 - Standing: [Skysports](https://www.skysports.com/football/tables)([scrapying code](standings.py))
 
-### Transform (see the code)
-- Data cleaning
+### Transform 
+- [Data cleaning](datacleansing.rmd)
 - Recalculate
 - Impute/Delete missing data
 
