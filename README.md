@@ -48,11 +48,10 @@ Project timeline:
 - Load the data into database using Rmd
 
 
-
-## Dashboard: Rshiny (global.R | server.R | ui.R)
+## Dashboard: Rshiny ([global.R](RShiny_environment/global.R) | [server.R](RShiny_environment/server.R)  | [ui.R](RShiny_environment/ui.R) )
 
 - Homepage
-![](images/FIFA_homepage.jpg)
+![](images/FIFA_homepage.png)
 
 - Player Profile
 ![](images/FIFA_Player%20Profile.png)
