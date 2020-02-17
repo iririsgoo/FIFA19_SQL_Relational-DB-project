@@ -50,8 +50,7 @@ Project timeline:
 
 - Homepage![](images/FIFA_homepage.png)
 
-- Player Analysis
-> Player Profile | Skills Comparison | Ranking by Position
+- Player Analysis (Player Profile | Skills Comparison | Ranking by Position)
 >>Player Profile
 >>![](images/FIFA_Player%20Profile.png)
 
@@ -59,22 +58,21 @@ Project timeline:
 >>![](images/FIFA_Player%20Analysis.png)
 
 >> Ranking by Position
->![](images/FIFA_Position%20Analysis.png)
+>>![](images/FIFA_Position%20Analysis.png)
 
-- Country
-> World Cup | Map Explorer
+- Country Analysis( World Cup | Map Explorer )
 >> World_cup_winner_by_year
 >>![](images/FIFA_World_cup_winner_by_year.png)
 >>Talent_distribution_by_country
 >>![](images/FIFA_Talent_distribution_by_country.png)
 
-- League
-> Players' info in different leagues
->![](images/FIFA_Player's_info_by_League.png)
+- League Analysis
+>> Players' info in different leagues
+>>![](images/FIFA_Player's_info_by_League.png)
 
 - SQL Pitch 
-> For users to DIY their own SQL queries
->![](images/FIFA_The%20SQL%20Pitch.png)
+>> For users to DIY their own SQL queries
+>>![](images/FIFA_The%20SQL%20Pitch.png)
 
 
 
