@@ -48,30 +48,30 @@ Project timeline:
 
 ## Dashboard: Rshiny ([global.R](RShiny_environment/global.R) | [server.R](RShiny_environment/server.R)  | [ui.R](RShiny_environment/ui.R) )
 
-- Homepage![](images/FIFA_homepage.png)
+### Homepage![](images/FIFA_homepage.png)
 
-- Player Analysis (Player Profile | Skills Comparison | Ranking by Position)
->>Player Profile
+### Player Analysis (Player Profile | Skills Comparison | Ranking by Position)
+> Player Profile
 >>![](images/FIFA_Player%20Profile.png)
 
->> SKills Comparison 
+> SKills Comparison 
 >>![](images/FIFA_Player%20Analysis.png)
 
->> Ranking by Position
+> Ranking by Position
 >>![](images/FIFA_Position%20Analysis.png)
 
-- Country Analysis( World Cup | Map Explorer )
->> World_cup_winner_by_year
+### Country Analysis( World Cup | Map Explorer )
+> World_cup_winner_by_year
 >>![](images/FIFA_World_cup_winner_by_year.png)
->>Talent_distribution_by_country
+>Talent_distribution_by_country
 >>![](images/FIFA_Talent_distribution_by_country.png)
 
-- League Analysis
->> Players' info in different leagues
+### League Analysis
+> Players' info in different leagues
 >>![](images/FIFA_Player's_info_by_League.png)
 
-- SQL Pitch 
->> For users to DIY their own SQL queries
+### SQL Pitch 
+> For users to DIY their own SQL queries
 >>![](images/FIFA_The%20SQL%20Pitch.png)
 
 
