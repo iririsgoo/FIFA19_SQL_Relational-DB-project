@@ -31,7 +31,6 @@ Project timeline:
 ![](Schema/ER_Diagram.png)
 
 
-
 ## ETL Process
 ### Extract: Data Source
 - FIFA 2018 Complete Player Dataset: [Kaggle](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset)
@@ -47,7 +46,6 @@ Project timeline:
 ### Load
 - Load the data into database using Rmd
 
-
 ## Dashboard: Rshiny ([global.R](RShiny_environment/global.R) | [server.R](RShiny_environment/server.R)  | [ui.R](RShiny_environment/ui.R) )
 
 - Homepage![](images/FIFA_homepage.png)
@@ -55,19 +53,20 @@ Project timeline:
 - Player Profile
 > Profile | Skills | Position ![](images/FIFA_Player%20Profile.png)
 
-- Player Comparison
-
+- Player Comparison 
 >![](images/FIFA_Player%20Analysis.png)
 
 - Player Ranking by position
-
 >![](images/FIFA_Position%20Analysis.png)
 
 - Country
 > World Cup | Map Explorer
+>![](images/FIFA_World_cup_winner_by_year.png)
+>![](images/FIFA_Talent_distribution_by_country.png)
 
 - League
 > Players' info in different leagues
+>![](images/FIFA_Player's_info_by_League.png)
 
 - SQL Pitch
 > For users to DIY their own SQL queries
